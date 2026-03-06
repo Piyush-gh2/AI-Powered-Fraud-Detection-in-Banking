@@ -1,0 +1,16 @@
+Transaction_ID,Customer_ID,Transaction_Amount,Transaction_Time,Merchant_Category,Transaction_Type,Location,Account_Balance,Device_Type,Fraud_Label
+1001,C001,1200,09:15,Groceries,POS,Delhi,45000,Mobile,0
+1002,C002,50000,02:10,Electronics,Online,Mumbai,120000,Web,1
+1003,C003,250,14:30,Food,POS,Bangalore,23000,Mobile,0
+1004,C004,150000,01:20,Luxury,Online,Hyderabad,350000,Web,1
+1005,C005,800,18:45,Clothing,POS,Delhi,56000,Mobile,0
+1006,C002,60000,02:30,Electronics,Online,Mumbai,70000,Web,1
+1007,C006,300,11:20,Food,POS,Chennai,15000,Mobile,0
+1008,C007,200000,03:00,Jewelry,Online,Kolkata,500000,Web,1
+1009,C003,400,13:10,Groceries,POS,Bangalore,22000,Mobile,0
+1010,C008,1000,16:00,Pharmacy,POS,Delhi,48000,Mobile,0
+1011,C009,75000,02:50,Electronics,Online,Mumbai,90000,Web,1
+1012,C010,500,19:30,Food,POS,Pune,30000,Mobile,0
+1013,C011,120000,03:40,Luxury,Online,Delhi,200000,Web,1
+1014,C012,650,10:45,Groceries,POS,Ahmedabad,42000,Mobile,0
+1015,C013,350,15:20,Food,POS,Jaipur,25000,Mobile,0
